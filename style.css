@@ -1,0 +1,31 @@
+head {
+    margin-top: 2cm ;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    float: right;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: 400;
+}
+body {
+    background-color: cadetblue;
+    padding: 10px 10px;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-right:2cm;
+}
+table,th,td {
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+}
+table.center {
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
